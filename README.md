@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">You can call me "Fluke"<br>🏫I'm Study at Rajamangala University of Technology Lanna <br>Major Solfware engineer👨‍💻<br>Junior Dev👨‍💻</p>
+<p align="left">🙋‍♂️AboutMe<br>You can call me "Fluke"<br>🏫Education🏫<br>I'm Study at Rajamangala University of Technology Lann<br>Major Solfware engineer👨‍💻<br>Trainee Dev💻</p>
 
 ###
 
